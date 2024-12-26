@@ -12,7 +12,9 @@ Esta es una aplicación de lista de tareas. Permite agregar, completar,editar y 
 ## Instalación
 1. Clona este repositorio:
    git clone https://github.com/Fransi1/todo-list.git
+   
 2.Iniciar todo-list-main:
   npm run dev
+  
 3.Iniciar el backend:
   npm run dev
